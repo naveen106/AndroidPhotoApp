@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--        android:icon="@drawable/ic_menu"/>-->
+    <item android:id="@+id/nav_all_folders"
+        android:title="All folders"
+
+    android:icon="@drawable/baseline_person_24"/>
+
+    <!--        android:icon="@drawable/ic_hide"/>-->
+    <item android:id="@+id/nav_hidden_folders"
+        android:title="Hidden folders"
+
+    android:icon="@drawable/baseline_person_24"/>
+
+    <!--        android:icon="@drawable/ic_favorite"/>-->
+    <item android:id="@+id/nav_favorites"
+        android:title="Favorites"
+    android:icon="@drawable/baseline_person_24"/>
+
+    <!--        android:icon="@drawable/ic_moments"/>-->
+    <item android:id="@+id/nav_moments"
+        android:title="Moments"
+    android:icon="@drawable/baseline_person_24"/>
+
+    <!--        android:icon="@drawable/ic_hide"/>-->
+    <item android:id="@+id/nav_share_us"
+        android:title="Share Us"
+    android:icon="@drawable/baseline_person_24"/>
+
+    <!--        android:icon="@drawable/ic_rate_us"/>-->
+    <item android:id="@+id/nav_rate_us"
+        android:title="Rate Us"
+    android:icon="@drawable/baseline_person_24"/>
+
+    <!--        android:icon="@drawable/ic_hide"/>-->
+    <item android:id="@+id/nav_about_us"
+        android:title="About"
+    android:icon="@drawable/baseline_person_24"/>
+
+    <item android:id="@+id/menuLogoutButton"
+        android:title="Logout"
+        android:icon="@drawable/baseline_person_24"/>
+</menu>
