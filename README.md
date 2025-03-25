@@ -23,15 +23,6 @@ This app requires the following permissions:
 
 For Android 10 (API 29) and above, `MediaStore` API is used to save images directly in the `Pictures` folder.
 
----
-
-## 🛠 Technologies Used
-
-- **Language**: Java (App Logic), Kotlin (UI using Jetpack Compose)
-- **Architecture**: MVVM (Model-View-ViewModel)
-- **UI**: Jetpack Compose & RecyclerView
-- **Dependency Injection**: Hilt
-- **Networking**: Ktor
 
 ---
 
